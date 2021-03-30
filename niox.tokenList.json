@@ -1,8 +1,8 @@
 {
-    "name": "NIOX",
-    "logoURI": "https://i.imgur.com/HU1u66R.jpg",
+    "name": "Niox Token List",
+    "logoURI": "https://uploads-ssl.webflow.com/5f7b07d2864ecd2ebd67992f/5fddef8f37658e1ef581b6a6_autonio-symbol-white.svg",
     "keywords": ["defi", "dex"],
-    "timestamp": "2021-03-28T23:10:00Z",
+    "timestamp": "2021-03-27T23:10:00Z",
     "tokens": [
         {
             "chainId": 137,
