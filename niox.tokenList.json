@@ -107,6 +107,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/10805/small/J51iIea.png?1583891599"
+    },
+    {
+      "name": "Digi",
+      "address": "0x4d8181f051E617642e233Be09Cea71Cc3308ffD4",
+      "symbol": "DIGI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/totoptech/niox-token-list/main/logos/logo-digi.svg"
     }
   ],
   "version": {
