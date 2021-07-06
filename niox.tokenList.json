@@ -115,6 +115,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/totoptech/niox-token-list/main/logos/logo-digi.svg"
+    },
+    {
+      "name": "renBTC",
+      "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+      "symbol": "renBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/11370/small/renBTC.png?1589985711"
     }
   ],
   "version": {
