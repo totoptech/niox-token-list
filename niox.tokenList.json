@@ -123,6 +123,22 @@
       "decimals": 8,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/11370/small/renBTC.png?1589985711"
+    },
+    {
+      "name": "Singularity Dao",
+      "address": "0x59e991B37b35Ac2187113dFdB5D60D2e887eEec1",
+      "symbol": "SDAO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/totoptech/niox-token-list/main/logos/sdao.png"
+    },
+    {
+      "name": "SingularityNET Token",
+      "address": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
+      "symbol": "AGIX",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/2138/small/singularitynet.png?1548609559"
     }
   ],
   "version": {
