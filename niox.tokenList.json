@@ -77,14 +77,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14048/small/aloha.png?1615527835"
     },
     {
-      "name": "SingularityNET Token",
-      "address": "0x800eB319e3F0E962d3ca8D625C871B8F1bdf2bC8",
-      "symbol": "AGI",
-      "decimals": 8,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/2138/small/singularitynet.png?1548609559"
-    },
-    {
       "name": "EASY",
       "address": "0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
       "symbol": "EASY",
