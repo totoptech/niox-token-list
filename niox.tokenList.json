@@ -125,11 +125,11 @@
       "logoURI": "https://raw.githubusercontent.com/totoptech/niox-token-list/main/logos/sdao.png"
     },
     {
-      "name": "SingularityNET Token",
-      "address": "0x190Eb8a183D22a4bdf278c6791b152228857c033",
-      "symbol": "AGIX",
-      "decimals": 8,
       "chainId": 137,
+      "address": "0x800eB319e3F0E962d3ca8D625C871B8F1bdf2bC8",
+      "name": "SingularityNET Token",
+      "symbol": "AGI",
+      "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/2138/small/singularitynet.png?1548609559"
     }
   ],
